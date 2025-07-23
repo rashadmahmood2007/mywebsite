@@ -1,0 +1,36 @@
+.n{
+    text-align: center;
+
+}
+body{
+    background-color: aquamarine;
+}
+.vid{
+    display: flex;
+    justify-content: center;
+}
+video{
+    display: flex;
+    justify-content: center;
+}
+.m{
+    text-align: right;
+        direction: rtl;
+}
+.m h1{
+margin-top: 200px;
+
+}
+.gg{
+     display: flex;
+      justify-content: center;
+}
+.rr{
+
+    display: flex;
+    justify-content: center;
+}
+.rr img{
+    width: 30%;
+    margin-right: 20px;
+}
